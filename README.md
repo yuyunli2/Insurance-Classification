@@ -13,7 +13,7 @@ There are two data files to use.
 We have about two files.
   * The first one is using sklearn. 
     Considering this is a high dimensional model with about 80 different features, we first use SVM
-    model like One Vs All and One VS ONE. It's not surprising that ovo is more accurate that ovr, but is still not accurate enough.
+    model like One Vs All and One VS One. It's not surprising that ovo is more accurate that ovr, but is still not accurate enough.
     Since I think it is a project that mainly to help us understand the difference between models, instead of tuning the parameters, 
     we pay more atttention to choosing with different training model. The final decision is that we use Logistic Regression as final model.
     Prediciotn accuray on Kaggle is about 50%
