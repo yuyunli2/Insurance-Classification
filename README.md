@@ -1,5 +1,5 @@
 # Insurance-Classification
-Project @c https://www.kaggle.com/c/cs412-insurance
+Project @ https://www.kaggle.com/c/cs412-insurance
 
 This is a multi-classification task where you are expected to predict the response variable.
 
